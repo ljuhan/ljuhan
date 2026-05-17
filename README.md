@@ -1,6 +1,6 @@
 ## Hi, I'm Juhan 👋
 
-Mathematics & Quantitative Finance student at NUS (graduating 2026).
+Mathematics & Quantitative Finance student at NUS (graduating 2027).
 Competing in the WorldQuant International Quant Championship (IQC).
 Interested in systematic trading, portfolio risk, and quantitative research.
 
